@@ -1,6 +1,6 @@
 # Plaid API Error Codes
 
-This repository contains a JSONL file with detailed information about various error codes from the Plaid API. The data has been scraped from the [Plaid API documentation](https://plaid.com/docs/errors) to provide a machine-readable reference for developers working with the Plaid API.
+This repository contains a JSONL file with detailed information about various error codes from the Plaid API. The data has been scraped from the [Plaid API documentation](https://plaid.com/docs/errors) to provide a machine-readable reference for analytics engineers working with Plaid API data or logs.
 
 ## File Contents
 
